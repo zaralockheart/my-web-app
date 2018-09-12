@@ -12,7 +12,7 @@ class App extends React.Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          This is just a webhook test.
+          This is just a webhook test. And here's the second try.
         </p>
       </div>
     );
